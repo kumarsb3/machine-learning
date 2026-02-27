@@ -1,6 +1,5 @@
 # machine-learning
-machine learning fundamentals
-
+Machine learning fundamentals
 
 Pre-requistes:
 Python language and its libraries
