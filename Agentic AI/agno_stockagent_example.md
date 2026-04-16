@@ -18,4 +18,4 @@ Agno is simpler,lightweight and easier to reason about.
 * Limited built-in support for production-grade scaling (vs bigger frameworks)
 
 
-![Video](/Files/agno_stockagent_example.mp4)
+![Video](../Files/agno_stockagent_example.mp4)
